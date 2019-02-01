@@ -1,0 +1,14 @@
+{
+    "name": "elasticsearchapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {},
+    "keywords": [],
+    "author": "Lindokuhle Dlamini",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "elasticsearch": "^15.3.1"
+    }
+}
